@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# trt-llm-surgery
-Automatic Precision Surgery for Long-Context LLM Deployment using TensorRT
-=======
-
 # TensorRT-LLM Surgery: Automatic Precision Surgery for Long-Context LLM Deployment
 
 ## 🌟 Why This Project Matters
@@ -70,4 +65,3 @@ trt-llm-surgery/
 | Precision fallback           | Maintains accuracy with quantized execution     |
 | Engine customization         | Adapts engine behavior to deployment needs      |
 | Memory profiling + charts    | Visualizes runtime bottlenecks and improvements |
->>>>>>> b2cfb7c (Initial commit with README)
